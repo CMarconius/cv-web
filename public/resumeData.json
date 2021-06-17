@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Mark Thomas",
+    "occupation": "React Developer & Digital Marketing Advisor",
+    "description": "ReactJS by Day... React Native also by Day...",
+    "image": "markt-profile.jpg",
+    "bio": "Greetings! My name is Mark, I'm a ReactJS and React Native Developer. I've been working as a Web Developer for a few years now, and I'm now looking to join a team of developers to share my experience and to grow more than ever before.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "marconius.dev@gmail.com",
+    "phone": "+44 7412 202 416",
+    "address": {
+      "street": "",
+      "city": "London",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://cmarconius.com",
+    "resumedownload": "https://cmarconius.com/mark-thomas-cv.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/cmarconius",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/cmarconius",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cmarconius/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/CMarconius/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have a college background of Games/Web development, and I have spent the past 3 years in a Technical marketing position in Success Resources. It was here that I gained a wide range of skills and experience handling the constantly changing events industry. With tasks that range from building full websites, to setting up marketing automations for various sales campaings to even managing live events abroad. The technical/commuication/personal skills I developed in this time are invaluable and will serve me greatly in anything I choose to do in the future",
+    "work": [
+      {
+        "company": "Success Resources UK",
+        "title": "Digital Marketing Executive",
+        "years": "3 years, August 2017 - August 2020",
+        "description": "Main Technical Support in Success Resources UK for all projects. This involved creating many websites every month and integrating them with our marketing tools and CRM. I was also responsible for collaborating with our copywriters and graphic designers to create all marketing automations."
+      },
+      {
+        "company": "Coder Dojo",
+        "title": "Tutor",
+        "years": "5 months, April 2017 - August 2017",
+        "description": "I volunteered at the Tullamore CoderDojo every week to help children to advance their technical skills. I assisted them with coding, using electronics, designing games and answering any questions they were curious enough to ask."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Marketing Automation Tools",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "50%"
+      }
+    ],
+    "education": [
+      {
+        "school": "Dublin Institute of Technology",
+        "degree": "BSc in Digital Technology and Design",
+        "graduated": "Graduated in Feb 2017",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Institute of Technology Carlow",
+        "degree": "Computer Games Development",
+        "graduated": "Sept 2012 – May 2015",
+        "description": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

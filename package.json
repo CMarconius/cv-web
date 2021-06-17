@@ -1,0 +1,40 @@
+{
+  "name": "cmarconius-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "firebase": "^7.24.0",
+    "firebase-admin": "^9.2.0",
+    "firebase-functions": "^3.11.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-ga": "^3.1.2",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "Mark Thomas - Web Development and Digital Marketing Advisor - Porfolio Website",
+  "main": "index.js",
+  "author": "Mark Thomas",
+  "license": "ISC"
+}
